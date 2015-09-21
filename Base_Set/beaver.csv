@@ -1,0 +1,24 @@
+Subject,Verb,Object,Label,MSRLM Score,VisKE Score
+beaver,appearing,opening,-1,-16.2310,0.5225
+beaver,building,dam,1,-10.3860,1.0298
+beaver,building,fort,-1,-13.2940,0.0000
+beaver,building,house,-1,-12.7900,0.7070
+beaver,building,hut,-1,-14.8060,0.2774
+beaver,catching,fish,-1,-12.6440,0.1691
+beaver,constructing,dam,1,-15.8810,0.8829
+beaver,cutting,tree,1,-10.4070,0.9698
+beaver,diving,mud,-1,-15.0240,0.6740
+beaver,flattening,front,-1,-16.1940,0.0000
+beaver,geting,scent,-1,-18.5430,0.7820
+beaver,giving,warning,1,-13.9750,0.2838
+beaver,laying,front,-1,-15.2860,0.3027
+beaver,making,hole,1,-14.5890,0.0000
+beaver,patting,mud,1,-16.9330,0.0000
+beaver,plodding,task,-1,-16.7590,0.1681
+beaver,replacing,reindeer,-1,-17.0360,0.1959
+beaver,slapping,tail,1,-14.2460,0.2870
+beaver,slouching,side,-1,-16.8210,0.7996
+beaver,turning,english,-1,-15.0520,0.3422
+beaver,turning,thought,-1,-15.2090,0.4868
+beaver,using,tail,1,-14.0670,0.7621
+beaver,using,trap,-1,-14.6300,0.0000

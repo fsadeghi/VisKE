@@ -1,0 +1,5 @@
+Subject,Verb,Object,Label,MSRLM Score,VisKE Score
+pelican,building,nest,1,-14.3180,0.9767
+pelican,piercing,breast,-1,-15.0190,0.7852
+pelican,rolling,eye,-1,-14.2840,0.3074
+pelican,tearing,breast,-1,-15.2110,0.8771

@@ -1,0 +1,6 @@
+Subject,Verb,Object,Label,MSRLM Score,VisKE Score
+kangaroo,furnishing,leather,-1,-15.8510,0.7628
+kangaroo,grazing,wood,-1,-13.6380,0.3373
+kangaroo,learning,art,-1,-13.9100,0.6268
+kangaroo,selecting,game,-1,-15.7020,0.7381
+kangaroo,using,tail,1,-14.6840,0.0000

@@ -1,0 +1,10 @@
+Subject,Verb,Object,Label,MSRLM Score,VisKE Score
+ant,biting,grain,-1,-15.6000,0.6687
+ant,carrying,home,-1,-12.9600,1.0661
+ant,carrying,leaf,1,-10.4260,1.1202
+ant,carrying,stick,1,-14.1040,1.0987
+ant,finding,food,1,-13.2700,1.1822
+ant,geting,wing,-1,-17.5060,0.9725
+ant,growing,wing,1,-15.5100,0.6808
+ant,knowing,individual,-1,-14.6140,0.5625
+ant,learning,industry,-1,-13.2410,0.2470
